@@ -1,1 +1,1 @@
-# Dagmc-OpenMc
+# Dagmc-OpenMC
